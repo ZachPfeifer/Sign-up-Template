@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sign-up-Template/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Sign-up-Template/static/js/main.4b42fe5d.chunk.js",
+    "main.js.map": "/Sign-up-Template/static/js/main.4b42fe5d.chunk.js.map",
+    "runtime-main.js": "/Sign-up-Template/static/js/runtime-main.e3359118.js",
+    "runtime-main.js.map": "/Sign-up-Template/static/js/runtime-main.e3359118.js.map",
+    "static/js/2.c4894f7f.chunk.js": "/Sign-up-Template/static/js/2.c4894f7f.chunk.js",
+    "static/js/2.c4894f7f.chunk.js.map": "/Sign-up-Template/static/js/2.c4894f7f.chunk.js.map",
+    "index.html": "/Sign-up-Template/index.html",
+    "precache-manifest.d850b4eacceede8cc283382df98fea27.js": "/Sign-up-Template/precache-manifest.d850b4eacceede8cc283382df98fea27.js",
+    "service-worker.js": "/Sign-up-Template/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Sign-up-Template/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.c4894f7f.chunk.js.LICENSE": "/Sign-up-Template/static/js/2.c4894f7f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3359118.js",
+    "static/js/2.c4894f7f.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.4b42fe5d.chunk.js"
+  ]
+}
